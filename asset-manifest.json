@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/http//yneskladovae.github.io/hws2/static/css/main.b185adb4.css",
-    "main.js": "/http//yneskladovae.github.io/hws2/static/js/main.d9f8adf5.js",
-    "static/js/787.66cb4309.chunk.js": "/http//yneskladovae.github.io/hws2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/http//yneskladovae.github.io/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/http//yneskladovae.github.io/hws2/index.html",
-    "main.b185adb4.css.map": "/http//yneskladovae.github.io/hws2/static/css/main.b185adb4.css.map",
-    "main.d9f8adf5.js.map": "/http//yneskladovae.github.io/hws2/static/js/main.d9f8adf5.js.map",
-    "787.66cb4309.chunk.js.map": "/http//yneskladovae.github.io/hws2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hws2/static/css/main.b185adb4.css",
+    "main.js": "/hws2/static/js/main.e6fa2321.js",
+    "static/js/787.66cb4309.chunk.js": "/hws2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hws2/index.html",
+    "main.b185adb4.css.map": "/hws2/static/css/main.b185adb4.css.map",
+    "main.e6fa2321.js.map": "/hws2/static/js/main.e6fa2321.js.map",
+    "787.66cb4309.chunk.js.map": "/hws2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b185adb4.css",
-    "static/js/main.d9f8adf5.js"
+    "static/js/main.e6fa2321.js"
   ]
 }

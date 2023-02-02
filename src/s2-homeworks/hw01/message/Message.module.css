@@ -25,6 +25,7 @@
     padding: 10px;
     border-radius: 10px;
     margin-right: 10px;
+    max-width: 540px;
 }
 
 .text:after {
@@ -42,7 +43,8 @@
 }
 
 .messageText {
-
+    overflow-wrap: anywhere;
+    white-space: normal;
 }
 
 .time {

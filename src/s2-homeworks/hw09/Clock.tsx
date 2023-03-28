@@ -1,4 +1,4 @@
-import React, {useState, MouseEvent} from 'react'
+import React, {useState} from 'react'
 import SuperButton from '../hw04/common/c2-SuperButton/SuperButton'
 import {restoreState} from '../hw06/localStorage/localStorage'
 import s from './Clock.module.css'
@@ -22,10 +22,10 @@ function Clock() {
         setTimerId(undefined)
     }
 
-    const onMouseEnter = (e: MouseEvent<HTMLDivElement>) => { // пишут студенты // показать дату если наведена мышка
+    const onMouseEnter = () => { // пишут студенты // показать дату если наведена мышка
         setShow(true)
     }
-    const onMouseLeave = (e: MouseEvent<HTMLDivElement>) => { // пишут студенты // спрятать дату если мышка не наведена
+    const onMouseLeave = () => { // пишут студенты // спрятать дату если мышка не наведена
         setShow(false)
     }
 

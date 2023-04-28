@@ -47,8 +47,6 @@ const HW12 = () => {
                     options={themes}
                     value={themeId}
                     onChangeOption={change}
-
-
                 />
             </div>
         </div>
